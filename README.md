@@ -1,2 +1,2 @@
 # portfolio-
-my portfolio with forntend technologies 
+my portfolio with frontend technologies 
